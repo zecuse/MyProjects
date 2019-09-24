@@ -1,3 +1,9 @@
 [submodule "Sorting"]
 	path = Sorting
 	url = https://github.com/zecuse/Sorting
+[submodule "Patterns/Moire"]
+	path = Patterns/Moire
+	url = https://github.com/zecuse/Moire
+[submodule "Patterns/Cellular-Automaton"]
+	path = Patterns/Cellular-Automaton
+	url = https://github.com/zecuse/Cellular-Automaton
